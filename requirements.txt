@@ -1,0 +1,6 @@
+pygame
+jedi
+autopep8
+yapf
+black
+flake8
